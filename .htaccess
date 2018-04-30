@@ -1,0 +1,5 @@
+Options all -indexes
+
+RewriteEngine on
+RewriteRule ^login$ index.php
+RewriteRule ^dashboard$ halaman.php
